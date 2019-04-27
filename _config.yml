@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: IQUYANG
 email: ""
 description: "Photo Journal"
 #url: "https://sunbliss.github.io"
@@ -39,9 +39,9 @@ nav:
 #  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
 #  - ABOUT: "https://sunbliss.github.io/photorama/about/"
 
-  - GALLERY: "/gallery/"
-  - JOURNAL: "/journal/"
-  - ABOUT: "/about/"
+  - 风景: "/gallery/"
+  - 历史: "/journal/"
+  - 关于: "/about/"
 
 # All translation keys
 translations:

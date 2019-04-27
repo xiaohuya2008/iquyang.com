@@ -67,3 +67,5 @@ atlassian-ide-plugin.xml
 logback.base.path*
 serviceIntance-*
 /bin
+
+_site
